@@ -1,0 +1,21 @@
+body {
+	background-color:#acd2ef;
+}
+h1 {
+	margin:100px,100px,100px,100px;
+	padding-left:500px;
+}
+p {
+	color: black;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#p01 {
+	font-family: cursive;
+}
+p.important {
+	font-weight: bold;
+}
+footer {
+	font-variant: small-caps;
+}
